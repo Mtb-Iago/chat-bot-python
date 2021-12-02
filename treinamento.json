@@ -1,0 +1,30 @@
+[
+    {
+        "perguntas": "Qual horario de atendimento?",
+        "respostas": "Funcionamos das 8:00 as 18:00 de segunda a sexta-feira"
+    },
+    {
+        "perguntas": "Qual forma de pagamento?",
+        "respostas": "Aceitamos PIX, cartões de crédito/débito e transfêrencias bancárias"
+    },
+    {
+        "perguntas": "Os produtos tem garantia?",
+        "respostas": "Sim, 3 meses de garantia."
+    },
+    {
+        "perguntas": "Posso retirar no local?",
+        "respostas": "Sim, após a compra ser confirmada liberamos no local."
+    },
+    {
+        "perguntas": "Posso trocar o produto?",
+        "respostas": "Sim, desde que não tenha retirado a etiqueta e o produto não tenha marcas de uso."
+    },
+    {
+        "perguntas": "Posso devolver o produto?",
+        "respostas": "Sim, desde que não tenha retirado a etiqueta e o produto não tenha marcas de uso."
+    },
+    {
+        "perguntas": "Consigo desconto no pagamento á vista?",
+        "respostas": "Nossos produtos estão todos com 10% de desconto em compras á vista."
+    }
+]

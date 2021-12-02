@@ -1,0 +1,34 @@
+[
+    {
+        "numero": "1", 
+        "item": "Qual horário de atendimento?"
+    },
+    {
+        "numero": "2",
+        "item": "Qual forma de pagamento?"
+    },
+    {
+        "numero" : "3",
+        "item": "Os produtos tem garantia?"
+    },
+    {
+        "numero": "4",
+        "item": "Posso retirar no local?"
+    },
+    {
+        "numero": "5",
+        "item": "Posso trocar o produto?"
+    },
+    {
+        "numero": "6",
+        "item": "Posso devolver o produto?"
+    },
+    {
+        "numero": "7",
+        "item": "Consigo desconto no pagamento á vista?"
+    },
+    {
+        "numero": "8",
+        "item": "S para sair"
+    }
+]
